@@ -20,6 +20,12 @@
 </ul>
 </br>
 </br>
+<h2>Vulnerabilidades</h2>
+<p>
+  Vulnerabilidades encontradas: 24
+</p>
+</br>
+</br>
 <hr>
 <h3>Página inicial</h3>
 <img src="https://user-images.githubusercontent.com/56568057/223733664-e20ced71-cacc-4d00-99c4-00e7d0f4242d.png" alt="Página inicial" />
